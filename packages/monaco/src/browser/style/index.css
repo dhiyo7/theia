@@ -47,10 +47,6 @@
     margin-right: 0px;
 }
 
-.monaco-tree-row  {
-    padding-right: 11px;
-}
-
 .quick-open-entry .quick-open-row .monaco-icon-label .monaco-icon-label-description-container .monaco-highlighted-label .highlight {
     color: var(--theia-accent-color1);
 }
